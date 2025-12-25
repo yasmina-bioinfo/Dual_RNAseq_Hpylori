@@ -1,0 +1,16 @@
+"sample_id","condition","strain","time","replicate"
+"Con.1_count","control",NA,NA,1
+"Con.2_count","control",NA,NA,2
+"Con.3_count","control",NA,NA,3
+"WT.12h.1_count","infected","WT",12,1
+"WT.12h.2_count","infected","WT",12,2
+"WT.12h.3_count","infected","WT",12,3
+"WT.24h.1_count","infected","WT",24,1
+"WT.24h.2_count","infected","WT",24,2
+"WT.24h.3_count","infected","WT",24,3
+"KO.12h.1_count","infected","KO",12,1
+"KO.12h.2_count","infected","KO",12,2
+"KO.12h.3_count","infected","KO",12,3
+"KO.24h.1_count","infected","KO",24,1
+"KO.24h.2_count","infected","KO",24,2
+"KO.24h.3_count","infected","KO",24,3

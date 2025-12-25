@@ -1,0 +1,16 @@
+=== Import report: GSE243405 processed tables ===
+Date: 2025-12-25 10:26:14.545978
+
+---
+Table: HOST
+Rows: 20317  | Cols: 40
+First 12 column names:
+id | Con-1_fpkm | Con-2_fpkm | Con-3_fpkm | WT-12h-1_fpkm | WT-12h-2_fpkm | WT-12h-3_fpkm | WT-24h-1_fpkm | WT-24h-2_fpkm | WT-24h-3_fpkm | KO-12h-1_fpkm | KO-12h-2_fpkm
+NA count (total): 0
+
+---
+Table: BACTERIA
+Rows: 1436  | Cols: 46
+First 12 column names:
+id | WT-1_fpkm | WT-2_fpkm | WT-3_fpkm | KO-1_fpkm | KO-2_fpkm | KO-3_fpkm | WT-12h-1_fpkm | WT-12h-2_fpkm | WT-12h-3_fpkm | WT-24h-1_fpkm | WT-24h-2_fpkm
+NA count (total): 0

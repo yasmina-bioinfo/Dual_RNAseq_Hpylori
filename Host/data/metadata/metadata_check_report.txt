@@ -1,0 +1,18 @@
+=== Metadata build & check report ===
+Date: 2025-12-25 12:30:25.684159
+Samples: 15
+
+Counts by condition:
+
+ control infected 
+       3       12 
+
+Counts by strain (including NA for controls):
+
+  KO   WT <NA> 
+   6    6    3 
+
+Counts by time (including NA for controls):
+
+  12   24 <NA> 
+   6    6    3 
