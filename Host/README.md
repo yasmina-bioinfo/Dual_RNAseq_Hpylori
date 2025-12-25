@@ -53,7 +53,7 @@ These comparisons allow disentangling:
 ---
 
 ## Directory structure
-
+```text
 Host/
 ├── data/
 │   ├── raw/          # Original expression tables
@@ -119,3 +119,4 @@ the `Bacteria/` directory. Together, both components form a complete and coheren
 - All analyses are script-based and fully reproducible.
 - No unnecessary model complexity was introduced.
 - The same methodological standards were applied across host and bacterial analyses.
+
