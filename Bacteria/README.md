@@ -49,6 +49,7 @@ This design allows disentangling:
 ---
 
 ## Directory structure
+```text
 Bacteria/
 ├── data/
 │   ├── raw/          # Original expression tables
@@ -115,3 +116,4 @@ with an additional genotype effect (WT vs KO) captured on PC2, confirming both d
 This bacterial analysis complements the **host-side transcriptomic analysis** performed in
 the `Host/` directory. Together, both components form a complete **dual RNA-seq workflow**
 allowing independent yet integrated interpretation of host and bacterial responses.
+
