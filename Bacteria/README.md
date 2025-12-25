@@ -69,7 +69,7 @@ Bacteria/
 │       └── volcano_*.png # Differential expression volcano plots
 │
 └── README.md
-
+```
 ---
 
 ## Identification of condition-dependent bacterial genes
@@ -116,4 +116,5 @@ with an additional genotype effect (WT vs KO) captured on PC2, confirming both d
 This bacterial analysis complements the **host-side transcriptomic analysis** performed in
 the `Host/` directory. Together, both components form a complete **dual RNA-seq workflow**
 allowing independent yet integrated interpretation of host and bacterial responses.
+
 
