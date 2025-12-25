@@ -66,7 +66,7 @@ Comparisons include:
 ---
 
 ## Repository structure
-
+```text
 Dual_RNAseq_Hpylori/
 ├── Host/
 │ ├── data/
@@ -129,3 +129,4 @@ This project was developed as part of a **PhD preparation portfolio**, with an e
 - sound experimental reasoning,
 - clean computational workflows,
 - and defensible biological interpretation.
+
